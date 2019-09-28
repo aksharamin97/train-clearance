@@ -1,4 +1,4 @@
-# train-clearance
+# Train Clearance
 This program generates the outermost points of train movements to generate clearance
 
 ## Installation
